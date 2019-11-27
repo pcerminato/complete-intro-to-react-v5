@@ -1,0 +1,24 @@
+{
+  "name": "complete-intro-to-react-v5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier \"src/**/*.{js,html}\" --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pcerminato:pablogit2018@github.com/pcerminato/complete-intro-to-react-v5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcerminato/complete-intro-to-react-v5/issues"
+  },
+  "homepage": "https://github.com/pcerminato/complete-intro-to-react-v5#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
